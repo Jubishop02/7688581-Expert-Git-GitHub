@@ -35,6 +35,9 @@ Voici les étapes à suivre pour déployer en production :
 - Etape 2 : ...
 ```
 
+## Prérequis
+
+
 ## Technologies :
 
 * HTML5/CSS3
